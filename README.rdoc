@@ -1,0 +1,5 @@
+This is a Reddit like clone built in Rails 4 using
+
+*devise
+*bootstrap-sass
+*act_as_votable
